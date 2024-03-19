@@ -1,3 +1,5 @@
+PROIGY_CS_02  
+
 A Password Complexity Checker is a tool or program designed to evaluate the strength of a password based on various criteria. These criteria typically include factors such as length, the presence of different types of characters (uppercase letters, lowercase letters, numbers, and special characters), and the overall complexity of the password.
 
 The Password Complexity Checker analyzes the input password against these criteria and provides feedback on its strength. This feedback often comes in the form of qualitative assessments (e.g., weak, moderate, strong, very strong) or quantitative scores. The purpose of this tool is to help users create passwords that are resilient against unauthorized access attempts, such as brute-force attacks or dictionary attacks.
